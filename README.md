@@ -73,6 +73,4 @@ LILAX Xray is intended for lawful network connectivity and configuration managem
 - **LILAX Labs** — project branding
 - **Xray-core** — where used by the project; see its official repository and license for details
 
-## License
-
-No license has been specified here. Add a `LICENSE` file before publishing and choose a license that matches the project's ownership and distribution terms.
+<img width="1536" height="1024" alt="8b1a4d16-ab09-4fce-8b26-7e5dd33748b8" src="https://github.com/user-attachments/assets/b8fa7cd2-709b-4a89-b89a-be3a4e22cb85" />
